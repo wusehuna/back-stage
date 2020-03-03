@@ -3,6 +3,12 @@ package yq.it.task02;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * 猜数字游戏
+ * 1.生成随机数
+ * 2.用户输入数字并进行判断
+ *
+ */
 public class GuessNumber {
 	public static void main(String[] args) {
 //		1.通过Random类中的nextInt（int n）方法，生成一个0~9的随机数
