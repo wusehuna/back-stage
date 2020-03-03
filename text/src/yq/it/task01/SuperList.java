@@ -1,5 +1,12 @@
 package yq.it.task01;
 
+/**
+ * 商城库存清单程序设计
+ * 打印出库存中每种商品的详细信息以及所有商品的汇总信息
+ * 命名规范：包名：一般都是公司域名反写；包名所有字母小写
+ * 		      类名：所有字母大写
+ *
+ */
 public class SuperList {
 	public static void main(String[] args) {
 //		苹果笔记本电脑

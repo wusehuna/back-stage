@@ -1,5 +1,5 @@
 package yq.it.test;
-
+//whileÓï¾ä
 public class Example09 {
 	public static void main(String[] args) {
 		int x=1;
